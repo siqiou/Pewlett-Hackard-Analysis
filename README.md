@@ -19,7 +19,7 @@ Results: Provide a bulleted list with four major points from the two analysis de
 ![total employees](https://github.com/siqiou/Pewlett-Hackard-Analysis/blob/ddbefd744dce3eaa77573ad76a57ee98b2cc2671/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/total%20employees.png)
 
 - The company has total 300024 employees, 90398 employees will reach retirement stage soon, which is 30% of the total population. Out of the 90398 employees, the most urgent hire is Senior Engineer and Senior Staff, which makes up 33% and 31%. 
-![percentage retire](https://github.com/siqiou/Pewlett-Hackard-Analysis/blob/ddbefd744dce3eaa77573ad76a57ee98b2cc2671/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/percentage%20of%20retire.png)
+![percentage retire](https://github.com/siqiou/Pewlett-Hackard-Analysis/blob/11794f713e6b6a0a1ced8ec0ba6258314652e98f/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/percentage%20of%20retire.png)
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 - Only 1940 employees were qualified for the mentorship program, and 720 are general staff, which does not have the knowledge to train Engineers. The company needs to action on the 2 following steps to prepare"
